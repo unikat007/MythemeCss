@@ -1418,7 +1418,6 @@ ol {
   margin-top: 0;
   margin-bottom: 10px;
   
-  display: inline-block;
 }
 ul ul,
 ol ul,
@@ -3983,7 +3982,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .nav > li {
   position: relative;
-  display: block;
+  display: inline-block;
 }
 .nav > li > a {
   position: relative;
